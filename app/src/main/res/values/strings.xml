@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sneaker Shop</string>
+    <string name="sneakers_tab">Sneakers</string>
+    <string name="accessories_tab">Accessories</string>
+    <string name="blogs_tab">Blogs</string>
+    <string name="add_products">Add</string>
+    <string name="name_hint">Name</string>
+    <string name="price_hint">Price</string>
+    <string name="btn_create">Create</string>
+    <string-array name="size_spinner" title="Size">
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+    </string-array>
+</resources>
